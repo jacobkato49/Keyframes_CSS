@@ -1,11 +1,10 @@
 # Keyframes_CSS
 Introduction Project into keyframes and animation with CSS
 
-*PROJECT*
+*PROJECT*:
 Simple tutorial with shape transition between a square to a circle
 
-##The Animation
-The animation property is used to call @keyframes inside a CSS selector. Animation can have multiple properties:
+#The Animation Properties:
 
 ```animation-name: @keyframes name)
 animation-duration: the timeframe length, the total duration of the animation from start to the end.
